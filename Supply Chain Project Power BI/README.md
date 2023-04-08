@@ -23,4 +23,7 @@ I learned several things while working on this project:
 5) Visual conditional formatting
 6) Knowledge of the supply chain domain
 
+My dashboard ended up in the top 10 with 200 participants. It's cool to know that my data modeling and visualization abilities are being recognized.
+Here is the YouTube video link where my dashboard was showcased - https://www.youtube.com/live/asOnUFHlvZw?feature=share
+
 ![Dashboard photo](https://user-images.githubusercontent.com/110670526/206758153-4df928d3-f6e0-4270-8dd2-a795ed2af29a.jpg)
