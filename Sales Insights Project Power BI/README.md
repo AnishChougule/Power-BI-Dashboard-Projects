@@ -1,3 +1,4 @@
+# Sales Insights Project Power BI
 
 In this project, I developed a Power BI dashboard that provides sales insights and profit analysis by cities and customers. The main objective of the dashboard was to identify profitable customers and cities while highlighting areas where the company is losing money.
 
